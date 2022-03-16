@@ -12,3 +12,5 @@ This is feature/feature-1 commit 3.
 This is feature/feature-1 commit 4.
 
 New commit 001
+
+New commit 002
